@@ -3357,7 +3357,7 @@ ul.slider-btn li:last-child {
   padding: 15px 0 15px 15px;
   display: block;
   text-decoration: none;
-  color: #000000;
+  color: #FFFFFF;
   font-weight: 600;
   -webkit-transition: all 1s ease-out;
   -moz-transition: all 1s ease-out;
@@ -3379,7 +3379,7 @@ ul.slider-btn li:last-child {
   transform-origin: 0 0 0;
   width: 240px;
   z-index: 99999;
-  background: #f7a145;
+  background: #23342c;
   padding: 0;
   left: 0;
   -webkit-transition: all 0.5s ease-out;
@@ -3401,7 +3401,7 @@ ul.slider-btn li:last-child {
   border-bottom: none;
 }
 .main-menu-area nav ul li ul > li:hover {
-  background: #202227;
+  background: #078823;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -ms-transition: all 0.5s ease-out;
@@ -4130,7 +4130,6 @@ ul.slider-btn li:last-child {
 }
 .slider-overlay-dark:before {
   content: "";
-  background-color: rgba(8, 9, 10, 0.35);
   height: 100%;
   width: 100%;
   position: absolute;
@@ -11526,6 +11525,9 @@ ul.radius-counter li:last-child {
 }
 #header-one p{
   margin-bottom: 5px;
+}
+a.phone{
+  color: #f7a145 !important;
 }
 @media only screen and (max-width: 479px) {
   .col-mb-12 {
