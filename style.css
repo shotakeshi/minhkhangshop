@@ -6155,6 +6155,17 @@ div ~ :last-child .features3-wrp-layout1 {
   margin-bottom: 20px;
   text-align: center;
 }
+.shop-item-layout1 .image-box img{
+  border-radius: 16px;
+  background: #f1f5f9;
+  box-shadow:
+          6px 6px 12px #d1d9e6,
+          -6px -6px 12px #ffffff;
+}
+.shop-item-layout1 .image-box:hover img{
+  border-color: #6366f1;
+  box-shadow: 0 8px 24px rgba(99, 102, 241, 0.25);
+}
 .shop-item-layout1 .content-box {
   text-align: center;
 }

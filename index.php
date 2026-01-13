@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Minh Khang | Happy Shop</title>
+    <title>Minh Khang Gift</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
@@ -36,7 +36,6 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css?v=<?php echo time(); ?>">
-
     <!-- Modernizr Js -->
     <script src="js/modernizr-2.8.3.min.js"></script>
 </head>
@@ -60,8 +59,8 @@
                     <div class="row text-white text-middle">
                         <div class="col-lg-3 col-md-4 col-sm-5">
                             <p>CHĂM SÓC KHÁCH HÀNG</p>
-                            <p>SĐT: <a class="phone" href="Tel:0397162616"> 0397.16.26.16 (Liên)</a></p>
-                            <p>Email: cskh@minhkhangshop.com</p>
+                            <p>SĐT: <a class="phone" href="Tel:0397162616"> 0397.162.616 (Liên)</a></p>
+                            <p>Email: cskh@minhkhanggift.com</p>
                         </div>
                         <div class="col-lg-6 col-md-4 col-sm-2">
                             <div class="logo-area2 text-center">
@@ -69,9 +68,6 @@
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-5">
-                            <div class="top-bar-contact-layout2 text-right">
-
-                            </div>
                             <ul class="top-bar-social-layout3">
                                 <li><a href="#" title="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
                                 <li><a href="#" title="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
@@ -124,7 +120,7 @@
                         <img src="img/logo-light2.png" alt="img">
                     </div>
                     <div class="col-md-9 col-sm-12 text-justify">
-                        <p >Minh Khang Happy Shop tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
+                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
                             Từ khâu lựa chọn sản phẩm đến cách đóng gói, mọi chi tiết đều được chăm chút để mỗi món quà trở thành một trải nghiệm trọn vẹn.<br>
                             Chúng tôi đồng hành cùng bạn trong những khoảnh khắc trao gửi, để niềm vui được lan tỏa một cách tinh tế và ý nghĩa.</p>
                         <p class="text-left">
@@ -142,8 +138,7 @@
                 <h2>Sản phẩm <span>tiêu biểu</span></h2>
                 <div class="row mt-30">
                     <div class="col-12 col-lg-offset-2 col-lg-8">
-                        <p>Minh Khang - Happy Shop không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết.
-                            Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
+                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết. Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
                     </div>
                 </div>
             </div>
@@ -167,9 +162,7 @@
                             <h3><a href="#">Proudect Title</a></h3>
                             <div class="item-price">$33.40</div>
                             <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                                <li><a href="#">Mua ngay</a></li>
                             </ul>
                         </div>
                     </div>
