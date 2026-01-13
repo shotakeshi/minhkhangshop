@@ -35,7 +35,8 @@
     <!-- Magic popup CSS -->
     <link rel="stylesheet" href="css/magnific-popup.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="style.css?v=<?php echo time(); ?>">
+
     <!-- Modernizr Js -->
     <script src="js/modernizr-2.8.3.min.js"></script>
 </head>
@@ -109,353 +110,285 @@
         <div class="bend niceties preview-1">
             <div id="ensign-nivoslider-3" class="slides">
                 <img src="img/slider/slider1-1.png" alt="slider" title="#slider-direction-1" />
-                <img src="img/slider/slider1-2.png" alt="slider" title="#slider-direction-2" />
+                <img src="img/slider/3.png" alt="slider" title="#slider-direction-2" />
+                <img src="img/slider/4.png" alt="slider" title="#slider-direction-3" />
             </div>
         </div>
     </div>
     <!-- Slider Area End Here -->
-    <!-- Newslatter Area Start Here -->
-    <div class="newslatter-layout2 shadow-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-10 col-sm-12">
-                    <h2>We Build Your Dreams & Get a Consulting Help </h2>
-                </div>
-                <div class="col-md-2 col-sm-12">
-                    <a class="btn btn-get shadow-equal" href="#">Get A Quote</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Newslatter Area End Here -->
-    <!-- Featured Services Area Start Here -->
-    <div class="section-space-less30 bg-gray4">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-layout3">
-                        <div class="image-box">
-                            <img src="img/service/service2-1.jpg" alt="image">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Furniture Repair</a></h3>
-                            <p>simply dummy text of the printing and typesetting industry arorem Ipsum has   dummy standard</p>
-                        </div>
+    <div class="section-space-less">
+        <div class="service-side-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-12">
+                        <img src="img/logo-light2.png" alt="img">
                     </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-layout3">
-                        <div class="image-box">
-                            <img src="img/service/service2-2.jpg" alt="image">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Furniture Assembly</a></h3>
-                            <p>simply dummy text of the printing and typesetting industry arorem Ipsum has   dummy standard</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-layout3">
-                        <div class="image-box">
-                            <img src="img/service/service2-3.jpg" alt="image">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">New Furniture</a></h3>
-                            <p>simply dummy text of the printing and typesetting industry arorem Ipsum has   dummy standard</p>
-                        </div>
+                    <div class="col-md-9 col-sm-12 text-justify">
+                        <p >Minh Khang Happy Shop tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
+                            Từ khâu lựa chọn sản phẩm đến cách đóng gói, mọi chi tiết đều được chăm chút để mỗi món quà trở thành một trải nghiệm trọn vẹn.<br>
+                            Chúng tôi đồng hành cùng bạn trong những khoảnh khắc trao gửi, để niềm vui được lan tỏa một cách tinh tế và ý nghĩa.</p>
+                        <p class="text-left">
+                            <a class="btn btn-fill-textprimary" href="tel:0397162616">Gọi ngay cho tôi</a>
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Featured Services Area End Here -->
-    <!-- About Progress Area Start Here -->
-    <div class="progress-content-area section-space-all" style="background-image: url(img/bg-reapet/about_reapet.png);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-2"></div>
-                <div class="col-lg-8">
-                    <div class="welcome-title">
-                        <h2 class="welcom-txt">welcome to</h2>
-                        <h2>Fabricate <span>carpenter</span></h2>
-                        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consec tetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Neque porro quis is quam est, qui do lorem ipsum quia dolor sit amet, consectetur, adipisci velit sed quia non. Quam eius modi tempora incidunt ut labore et dolore the magnam aliquam quaerat vo luptatem. Neque porro quisquam est magnam aliquam.</p>
+    <!-- Shop Item Area Area Start Here -->
+    <div class="section-space-default search-with-filter-area body-bg">
+        <div class="container isotope-container">
+            <div class="section-title-dark">
+                <h2>Sản phẩm <span>tiêu biểu</span></h2>
+                <div class="row mt-30">
+                    <div class="col-12 col-lg-offset-2 col-lg-8">
+                        <p>Minh Khang - Happy Shop không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết.
+                            Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
                     </div>
                 </div>
-                <div class="col-lg-2"></div>
             </div>
+            <div class="row">
+                <div class="col-md-8 col-sm-8">
+                    <div class="tab-menu-list-default isotope-classes-tab">
+                        <a href="#" data-filter="*" class="current">Tất cả</a>
+                        <a href="#" data-filter=".Backpaks">Hạnh Phúc</a>
+                        <a href="#" data-filter=".Bag">Tinh hoa</a>
+                        <a href="#" data-filter=".Essentials">An Nhiên</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row featured-container our-store-wrapper">
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/1.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Essentials Bag">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/2.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/3.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Bag">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/4.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks Essentials">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/5.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Bag">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/6.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Essentials">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/7.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/8.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/9.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/10.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/11.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
+                    <div class="shop-item-layout1">
+                        <div class="image-box">
+                            <a href="#"><img src="img/product/12.png" alt="img">
+                        </div>
+                        <div class="content-box text-center">
+                            <h3><a href="#">Proudect Title</a></h3>
+                            <div class="item-price">$33.40</div>
+                            <ul>
+                                <li><a href="#">Add To Cart</a></li>
+                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
+                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Shop Item Area End Here -->
+    <!-- Banner Area Start Here -->
+    <div class="bg-common-style banner-overlay section-space-default" style="background-image: url(img/banner/2.png);">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <ul class="radius-counter">
-                        <li>
-                            <div class="progress-layout1 shadow-equal wow fadeInUp">
-                                <h2 class="about-counter title-bar-counter" data-num="670"></h2>
-                                <p>Projects Done</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="progress-layout1 shadow-equal wow fadeInUp">
-                                <h2 class="about-counter title-bar-counter" data-num="90"></h2>
-                                <p>Engineers</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="progress-layout1 shadow-equal wow fadeInUp">
-                                <h2 class="about-counter title-bar-counter" data-num="30"></h2>
-                                <p>Years Experience</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About Progress Area End Here -->
-    <!-- Portfolio Area Start Here -->
-    <div class="section-space-default" style="background-image: url(img/bg-reapet/servicebgdark.jpg);">
-        <div class="container">
-            <div class="section-title-light text-center">
-                <h2>Recent<span> project</span></h2>
-            </div>
-        </div>
-        <div class="container isotope-container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                    <div class="isotope-classes-tab project-list3">
-                        <a href="#" data-filter="*" class="current">All Project</a>
-                        <a href="#" data-filter=".furniture">Furniture</a>
-                        <a href="#" data-filter=".manufacturing">Manufacturing</a>
-                        <a href="#" data-filter=".indoor">Indoor</a>
-                        <a href="#" data-filter=".outdoor">Outdoor</a>
-                        <a href="#" data-filter=".office">Office</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row featured-container gallery-wrapper">
-                <div class="col-md-4 col-sm-6 outdoor furniture">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject1.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject1.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 indoor manufacturing">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject2.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject2.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 office furniture">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject3.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject3.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 outdoor manufacturing">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject4.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject4.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 outdoor manufacturing">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject5.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject5.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 office indoor">
-                    <div class="portfolio-layout1">
-                        <div class="image-box">
-                            <img src="img/project/hproject6.jpg" alt="img">
-                        </div>
-                        <div class="content-box">
-                            <ul>
-                                <li><a href="project-details1.html"><i class="icofont icofont-link"></i></a></li>
-                                <li><a href="img/project/hproject6.jpg" class="zoom"><i class="icofont icofont-search-alt-1"></i></a></li>
-                            </ul>
-                            <h2><a href="#">Furniture Work</a></h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="project-btn text-center mt-30">
-                <a href="#" class="btn btn-fill">view all project</a>
-            </div>
-        </div>
-    </div>
-    <!-- Portfolio Area End Here -->
-    <!-- Newslatter Area Start Here -->
-    <div class="newslatter-layout1 shadow-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-10 col-sm-12">
-                    <h2>Call Us To Get a Free Quote <span>+555 790 735</span></h2>
-                </div>
-                <div class="col-md-2 col-sm-12">
-                    <a class="btn btn-get shadow-equal" href="#">send us an email</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Newslatter Area End Here -->
-    <!-- Blog Area End Here -->
-    <div class="Blog-area section-space-less30 bg-gray4">
-        <div class="full-wrp">
-            <div class="container">
-                <div class="section-title-primary mb-70 text-center">
-                    <h2>latest news</h2>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, te consec tetur, adipisci<br> velit, sed quia non numquam eius modi tempora incidunt.</p>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                        <div class="blog-wrp-layout3">
-                            <div class="image-box">
-                                <img src="img/blog/styleb7.jpg" alt="engeniers">
-                            </div>
-                            <div class="content-box text-left">
-                                <h3 class="text-capitalize"><a href="#">Making of Private Hotel Design</a></h3>
-                                <ul class="sidebar">
-                                    <li>July 17, 2017</li>
-                                    <li><a href="#">37 comments</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="blog-wrp-layout3">
-                            <div class="image-box">
-                                <img src="img/blog/styleb8.jpg" alt="engeniers">
-                            </div>
-                            <div class="content-box text-left">
-                                <h3 class="text-capitalize"><a href="#">Making of Private Hotel Design</a></h3>
-                                <ul class="sidebar">
-                                    <li>July 17, 2017</li>
-                                    <li><a href="#">37 comments</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                    <div class="banner-content-layout1 text-center mt-50 mb-50">
+                        <h2 class="uppercase-text">Gói trọn cảm xúc trong từng <span> món quà </span></h2>
+                        <a href="#" class="btn-primary-fill-ghost">request a quote</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Blog Area End Here -->
-    <!-- Brand Logo Area End Here -->
-    <div class="brand-area-space">
-        <div class="container">
-            <div class="row">
-                <div class="plumber-carousel"
-                     data-loop="true"
-                     data-items="5"
-                     data-margin="70"
-                     data-autoplay="true"
-                     data-autoplay-timeout="10000"
-                     data-smart-speed="500"
-                     data-dots="false"
-                     data-nav="false"
-                     data-nav-speed="false"
-                     data-r-x-small="2"
-                     data-r-x-small-nav="false"
-                     data-r-x-small-dots="false"
-                     data-r-x-medium="3"
-                     data-r-x-medium-nav="false"
-                     data-r-x-medium-dots="false"
-                     data-r-small="5"
-                     data-r-small-nav="false"
-                     data-r-small-dots="false"
-                     data-r-medium="5"
-                     data-r-medium-nav="false"
-                     data-r-medium-dots="false"
-                     data-r-large="5"
-                     data-r-large-nav="false"
-                     data-r-large-dots="false">
-                    <div class="brand-logo">
-                        <a href="#"><img src="img/brand/logoprimary1.png" alt="img"></a>
-                    </div>
-                    <div class="brand-logo">
-                        <a href="#"><img src="img/brand/logoprimary2.png" alt="img"></a>
-                    </div>
-                    <div class="brand-logo">
-                        <a href="#"><img src="img/brand/logoprimary1.png" alt="img"></a>
-                    </div>
-                    <div class="brand-logo">
-                        <a href="#"><img src="img/brand/logoprimary2.png" alt="img"></a>
-                    </div>
-                    <div class="brand-logo">
-                        <a href="#"><img src="img/brand/logoprimary1.png" alt="img"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Brand Logo Area End Here -->
+    <!-- Banner Area End Here -->
     <!-- Footer Area Start Here -->
     <footer>
-        <div class="footer-area-top accent-bg">
+        <div class="footer-area-top bg-green">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-logo">
                             <img src="img/logo-light.png" alt="logo">
-                            <p>Neque porro quisquam est, qui is dolor emr ipsum quia dolor sit amet  consec tetur is adipisci velit, sed the quia non num quam. Neque porro quisquam est, qui dolor emr ipsum quia dolor sit amet, consec tetur.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="footer-box">
-                            <h3 class="title-bar-footer">Contact Us</h3>
+                            <h3 class="title-bar-footer">Liên hệ</h3>
                             <ul class="corporate-address">
                                 <li>
                                     <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <p>Phone: +6789-875-2235</p>
-                                    <p>Fax: +2390-875-2235</p>
+                                    <p>Số điện thoại: 0397.162.616</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                    <p>support@tectas.com</p>
-                                    <p>boosted@domain.com</p>
-                                </li>
-                                <li>
-                                    <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                    <p>202 New Hampshire Avenue</p>
-                                    <p>North #100, New York-2573</p>
+                                    <p>sales@minhkhangshop.com</p>
                                 </li>
                             </ul>
                         </div>
@@ -504,7 +437,7 @@
         </div>
         <div class="footer-area-bottom accent-bg-light">
             <div class="container">
-                <p>© 2018 <span>Fab-carpenter</span>. All rights reserved. Designed by<a href="#"> ABCtechweb</a></p>
+                <p>© 2026 <span>Minh Khang Shop</span>. All rights reserved. Designed by<a href="#"> Hà Anh Hiếu</a></p>
             </div>
         </div>
     </footer>

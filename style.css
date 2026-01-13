@@ -314,7 +314,7 @@ ul {
   background: #283242;
 }
 .accent-bg-light {
-  background: #3b3535;
+  background: #2b4236;
 }
 .bg-common-style {
   background-size: cover;
@@ -514,32 +514,7 @@ ul {
   }
 }
 .section-space-less {
-  padding: 50px 0 90px;
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .section-space-less {
-    padding: 35px 0 80px;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .section-space-less {
-    padding: 40px 0 70px;
-  }
-}
-@media (min-width: 480px) and (max-width: 767px) {
-  .section-space-less {
-    padding: 35px 0 60px;
-  }
-}
-@media (min-width: 321px) and (max-width: 479px) {
-  .section-space-less {
-    padding: 30px 0 50px;
-  }
-}
-@media only screen and (max-width: 320px) {
-  .section-space-less {
-    padding: 25px 0 40px;
-  }
+  padding: 50px 0 30px;
 }
 .space-bottom-less30 {
   padding: 0 0 90px;
@@ -710,35 +685,10 @@ ul {
   }
 }
 .section-space-default {
-  padding: 110px 0 120px;
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .section-space-default {
-    padding: 95px 0 105px;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .section-space-default {
-    padding: 80px 0 90px;
-  }
-}
-@media (min-width: 480px) and (max-width: 767px) {
-  .section-space-default {
-    padding: 65px 0 75px;
-  }
-}
-@media (min-width: 321px) and (max-width: 479px) {
-  .section-space-default {
-    padding: 50px 0 60px;
-  }
-}
-@media only screen and (max-width: 320px) {
-  .section-space-default {
-    padding: 35px 0 45px;
-  }
+  padding: 30px 0 30px;
 }
 .section-space-all {
-  padding: 120px 0 120px;
+  padding: 30px 0 30px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .section-space-all {
@@ -1110,33 +1060,9 @@ ul {
 }
 .section-title-dark {
   text-align: center;
-  margin-bottom: 92px;
+  margin-bottom: 30px;
 }
-@media (min-width: 992px) and (max-width: 1199px) {
-  .section-title-dark {
-    margin-bottom: 85px;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .section-title-dark {
-    margin-bottom: 80px;
-  }
-}
-@media (min-width: 480px) and (max-width: 767px) {
-  .section-title-dark {
-    margin-bottom: 75px;
-  }
-}
-@media (min-width: 321px) and (max-width: 479px) {
-  .section-title-dark {
-    margin-bottom: 70px;
-  }
-}
-@media only screen and (max-width: 320px) {
-  .section-title-dark {
-    margin-bottom: 60px;
-  }
-}
+
 .section-title-dark h2 {
   text-transform: uppercase;
   font-weight: 700;
@@ -1145,11 +1071,11 @@ ul {
   color: #000000;
 }
 .section-title-dark h2 span {
-  color: #f7a145;
+  color: #23342c;
 }
 .section-title-dark h2:before {
   content: "";
-  border-top: 1px solid #f7a145;
+  border-top: 1px solid #23342c;
   width: 113px;
   position: absolute;
   top: 65px;
@@ -1161,7 +1087,7 @@ ul {
 }
 .section-title-dark h2:after {
   content: "";
-  border-bottom: 1px solid #f7a145;
+  border-bottom: 1px solid #23342c;
   width: 113px;
   position: absolute;
   top: 72px;
@@ -1668,14 +1594,14 @@ ul {
 }
 .btn-fill:hover {
   background: transparent;
-  color: #f7a145;
+  color: #20352c;
 }
 .btn-fill-textprimary {
-  background: #f7a145;
+  background: #20352c;
   text-transform: uppercase;
   font-size: 13px;
   color: #ffffff;
-  border: 2px solid #f7a145;
+  border: 2px solid #20352c;
   padding: 13px 34px;
   border-radius: 3px;
   display: inline-block;
@@ -1688,8 +1614,8 @@ ul {
 }
 .btn-fill-textprimary:hover {
   background: transparent;
-  color: #ffffff;
-  border: 2px solid #ffffff;
+  color: #20352c;
+  border: 2px solid #20352c;
 }
 .button-line-left {
   font-weight: 500;
@@ -3447,8 +3373,8 @@ ul.slider-btn li:last-child {
   transition: all 0.5s ease-out;
 }
 .header-layout1 .stick {
-  border-bottom: 2px solid #f7a145;
-  background: rgba(255, 255, 255, 0.9);
+  border-bottom: 2px solid #23342c;
+  background: #23342c;
 }
 .header-layout2 .stick {
   -webkit-transition: all 0.5s ease-out;
@@ -4761,9 +4687,6 @@ ul.slider-btn li:last-child {
 /*=======================================================================
 [07] Service Area
 =========================================================================*/
-.service-side-title {
-  margin-bottom: 50px;
-}
 .service-side-title h2 {
   font-weight: 700;
   font-size: 36px;
@@ -7473,10 +7396,10 @@ ul.radius-counter li:last-child {
   margin-left: 35px;
 }
 .project-list2 a:hover {
-  color: #f7a145;
+  color: #23342c;
 }
 .project-list2 .current {
-  color: #f7a145;
+  color: #23342c;
 }
 .project-list3 {
   text-align: center;
@@ -11528,6 +11451,9 @@ ul.radius-counter li:last-child {
 }
 a.phone{
   color: #f7a145 !important;
+}
+.main-menu-area{
+  border-top: 1px solid #ffffff;
 }
 @media only screen and (max-width: 479px) {
   .col-mb-12 {
