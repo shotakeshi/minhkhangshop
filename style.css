@@ -10854,32 +10854,7 @@ ul.radius-counter li:last-child {
 [36] Footer Area
 =========================================================================*/
 .footer-area-top {
-  padding: 110px 0 80px;
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .footer-area-top {
-    padding: 82px 0 40px;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .footer-area-top {
-    padding: 72px 0 40px;
-  }
-}
-@media (min-width: 480px) and (max-width: 767px) {
-  .footer-area-top {
-    padding: 62px 0 35px;
-  }
-}
-@media (min-width: 321px) and (max-width: 479px) {
-  .footer-area-top {
-    padding: 52px 0 20px;
-  }
-}
-@media only screen and (max-width: 320px) {
-  .footer-area-top {
-    padding: 42px 0 10px;
-  }
+  padding: 30px 0 30px;
 }
 .footer-area-top .footer-box {
   margin-bottom: 30px;
@@ -10893,13 +10868,6 @@ ul.radius-counter li:last-child {
 .footer-area-top p {
   margin: 0;
   color: #a9aeba;
-}
-.footer-area-top .footer-logo {
-  margin-bottom: 30px;
-}
-.footer-area-top .footer-logo img {
-  margin-bottom: 50px;
-  max-width: 100%;
 }
 @media only screen and (max-width: 479px) {
   .footer-area-top .footer-logo img {
@@ -10961,7 +10929,7 @@ ul.radius-counter li:last-child {
   outline: none;
 }
 .footer-area-top .footer-newslatter .input-group .btn-default {
-  background: #f7a145;
+  background: #45705c;
   height: 45px;
   border: 0;
   border-radius: 0 2px 2px 0;
@@ -11079,22 +11047,23 @@ ul.radius-counter li:last-child {
 }
 .footer-area-top .corporate-address li i {
   text-align: center;
-  color: #ffffff;
+  color: #23342c;
   position: absolute;
   left: 0;
-  top: 10px;
+  top: 0px;
   z-index: 1;
   font-size: 14px;
   border-radius: 2px;
   height: 30px;
   width: 30px;
-  background: #f7a145;
+  background: #ffffff;
   line-height: 28px;
 }
 .footer-area-top .corporate-address li p {
   color: #a9aeba;
   margin-bottom: 5px;
   line-height: 1.5;
+  padding-top: 1px;
 }
 .footer-area-top .corporate-address li:last-child {
   margin-bottom: 0;
@@ -11454,6 +11423,9 @@ a.phone{
 }
 .main-menu-area{
   border-top: 1px solid #ffffff;
+}
+.footer-logo img{
+  max-width: 200px;
 }
 @media only screen and (max-width: 479px) {
   .col-mb-12 {
