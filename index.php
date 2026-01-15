@@ -32,7 +32,7 @@
                         <img src="img/logo-light2.png" alt="Minh Khang Gift">
                     </div>
                     <div class="col-md-9 col-sm-12 text-justify">
-                        <p >Minh Khang Gift tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
+                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
                             Từ khâu lựa chọn sản phẩm đến cách đóng gói, mọi chi tiết đều được chăm chút để mỗi món quà trở thành một trải nghiệm trọn vẹn.<br>
                             Chúng tôi đồng hành cùng bạn trong những khoảnh khắc trao gửi, để niềm vui được lan tỏa một cách tinh tế và ý nghĩa.</p>
                         <p class="text-left">
@@ -50,8 +50,7 @@
                 <h2>Sản phẩm <span>tiêu biểu</span></h2>
                 <div class="row mt-30">
                     <div class="col-12 col-lg-offset-2 col-lg-8">
-                        <p>Minh Khang Gift không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết.
-                            Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
+                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết. Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
                     </div>
                 </div>
             </div>
@@ -75,9 +74,7 @@
                             <h3><a href="#">Proudect Title</a></h3>
                             <div class="item-price">$33.40</div>
                             <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
+                                <li><a href="#">Mua ngay</a></li>
                             </ul>
                         </div>
                     </div>
