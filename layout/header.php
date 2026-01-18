@@ -15,9 +15,6 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-5">
-                        <div class="top-bar-contact-layout2 text-right">
-
-                        </div>
                         <ul class="top-bar-social-layout3">
                             <li><a href="#" title="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
                             <li><a href="#" title="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
