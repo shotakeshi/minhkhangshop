@@ -37,7 +37,7 @@
                         </form>
                         <ul class="contact-social">
                             <li><a target="_blank" href="https://www.facebook.com/share/1H5bXG868m/?mibextid=wwXIfr" title="facebook"><img style="max-height: 24px" src="../img/icon-facebook.png"></a></li>
-                            <li><a target="_blank" href="https://zalo.me/397162616" title="zalo"><img style="max-height: 24px" src="../img/Icon_of_zalo.svg.webp"></a></li>
+                            <li><a target="_blank" href="https://zalo.me/0397162616" title="zalo"><img style="max-height: 24px" src="../img/Icon_of_zalo.svg.webp"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
          alt="Chat Facebook">
 </a>
 
-<a href="https://zalo.me/0901234567"
+<a href="https://zalo.me/0397162616"
    class="zalo-chat-float"
    target="_blank"
    rel="noopener">
