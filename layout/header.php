@@ -17,7 +17,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-5">
                         <ul class="top-bar-social-layout3">
                             <li><a target="_blank" href="https://www.facebook.com/share/1H5bXG868m/?mibextid=wwXIfr" title="facebook"><img style="max-height: 24px" src="../img/icon-facebook.png"></a></li>
-                            <li><a target="_blank" href="https://zalo.me/397162616" title="zalo"><img style="max-height: 24px" src="../img/Icon_of_zalo.svg.webp"></a></li>
+                            <li><a target="_blank" href="https://zalo.me/0397162616" title="zalo"><img style="max-height: 24px" src="../img/Icon_of_zalo.svg.webp"></a></li>
                         </ul>
                     </div>
                 </div>

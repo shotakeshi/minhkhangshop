@@ -42,7 +42,7 @@
                         <p class="text-left">
                             <a class="btn btn-fill-textprimary" href="tel:0397162616">Gọi ngay cho tôi</a>
                             <a target="_blank" class="btn btn-fill-facebook" href="https://www.facebook.com/share/1H5bXG868m/?mibextid=wwXIfr">FACEBOOK</a>
-                            <a target="_blank" class="btn btn-fill-zalo" href="https://zalo.me/397162616">ZALO</a>
+                            <a target="_blank" class="btn btn-fill-zalo" href="https://zalo.me/0397162616">ZALO</a>
                         </p>
                     </div>
                 </div>
