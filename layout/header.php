@@ -11,14 +11,13 @@
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm-2">
                         <div class="logo-area2 text-center">
-                            <a href="index.html"><img src="img/logo-light2.png" style="max-height: 150px" alt="logo" class="img-responsive"></a>
+                            <a href="/"><img src="img/logo-light2.png" style="max-height: 150px" alt="logo" class="img-responsive"></a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-5">
                         <ul class="top-bar-social-layout3">
-                            <li><a href="#" title="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
-                            <li><a href="#" title="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
-                            <li><a href="#" title="google"><i class="icofont icofont-social-google-plus"></i></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/share/1H5bXG868m/?mibextid=wwXIfr" title="facebook"><img style="max-height: 24px" src="../img/icon-facebook.png"></a></li>
+                            <li><a target="_blank" href="https://zalo.me/397162616" title="zalo"><img style="max-height: 24px" src="../img/Icon_of_zalo.svg.webp"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -32,10 +31,10 @@
                             <ul class="text-uppercase">
                                 <li><a class="active" href="#">Trang chủ</a>
                                 </li>
-                                <li><a href="about.html">Giới thiệu</a></li>
-                                <li><a href="#">Sản phẩm</a>
-                                </li>
-                                <li><a href="contact.html">Liên hệ</a></li>
+                                <li><a href="#about">Giới thiệu</a></li>
+                                <li><a href="#product">Sản phẩm</a></li>
+                                <li><a href="#service">Dịch vụ</a></li>
+                                <li><a href="#contact">Liên hệ</a></li>
                             </ul>
                         </nav>
                     </div>

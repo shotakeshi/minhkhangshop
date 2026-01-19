@@ -24,255 +24,52 @@
         </div>
     </div>
     <!-- Slider Area End Here -->
-    <div class="section-space-less">
+    <div class="section-space-less" id="about">
         <div class="service-side-title">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-12">
-                        <img src="img/logo-light2.png" alt="Minh Khang Gift">
+                    <div class="col-md-4 col-sm-12">
+                        <img src="img/about/about-us-2.png" alt="Minh Khang Gift">
                     </div>
-                    <div class="col-md-9 col-sm-12 text-justify">
-                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> tin rằng một món quà đẹp không chỉ nằm ở hình thức, mà ở cảm xúc nó mang theo.<br/>
-                            Từ khâu lựa chọn sản phẩm đến cách đóng gói, mọi chi tiết đều được chăm chút để mỗi món quà trở thành một trải nghiệm trọn vẹn.<br>
-                            Chúng tôi đồng hành cùng bạn trong những khoảnh khắc trao gửi, để niềm vui được lan tỏa một cách tinh tế và ý nghĩa.</p>
+                    <div class="col-md-8 col-sm-12 text-justify">
+                        <p><strong style="color: #2b4236">Minh Khang Gift</strong> được hình thành từ khát vọng nâng tầm giá trị của mỗi món quà — nơi vẻ đẹp thẩm mỹ hòa quyện cùng chiều sâu cảm xúc. Chúng tôi tin rằng, một món quà được chuẩn bị tinh tế và trao đi bằng sự trân trọng chính là biểu đạt hoàn hảo nhất của sự kết nối bền vững giữa con người với con người.</p>
+                        <p>
+                            Chuyên tâm trong lĩnh vực quà tặng, Minh Khang Gift mang đến những giải pháp quà tặng được thiết kế chỉn chu và cá nhân hóa.
+                        </p>
+                        <p>
+                            Mỗi sản phẩm của Minh Khang Gift đều được tuyển chọn khắt khe, thiết kế hài hòa và đóng gói trang trọng, thể hiện sự tinh tế, đẳng cấp và thông điệp trân quý mà doanh nghiệp mong muốn gửi gắm đến người nhận.
+                        </p>
                         <p class="text-left">
                             <a class="btn btn-fill-textprimary" href="tel:0397162616">Gọi ngay cho tôi</a>
+                            <a target="_blank" class="btn btn-fill-facebook" href="https://www.facebook.com/share/1H5bXG868m/?mibextid=wwXIfr">FACEBOOK</a>
+                            <a target="_blank" class="btn btn-fill-zalo" href="https://zalo.me/397162616">ZALO</a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Shop Item Area Area Start Here -->
-    <div class="section-space-default search-with-filter-area body-bg">
-        <div class="container isotope-container">
-            <div class="section-title-dark">
-                <h2>Sản phẩm <span>tiêu biểu</span></h2>
-                <div class="row mt-30">
-                    <div class="col-12 col-lg-offset-2 col-lg-8">
-                        <p><span style="font-weight: bold; color: #2b4236">Minh Khang Gift</span> không chỉ là một món quà, mà là hành trình của yêu thương được nâng niu trong từng chi tiết. Chúng tôi trân trọng gửi đến bạn những trải nghiệm tinh tế, nơi mỗi món quà góp phần tôn vinh phong thái đẳng cấp và gu thẩm mỹ riêng biệt của bạn.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-8 col-sm-8">
-                    <div class="tab-menu-list-default isotope-classes-tab">
-                        <a href="#" data-filter="*" class="current">Tất cả</a>
-                        <a href="#" data-filter=".Backpaks">Hạnh Phúc</a>
-                        <a href="#" data-filter=".Bag">Tinh hoa</a>
-                        <a href="#" data-filter=".Essentials">An Nhiên</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row featured-container our-store-wrapper">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/1.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Mua ngay</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Essentials Bag">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/2.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/3.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Bag">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/4.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks Essentials">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/5.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Bag">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/6.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Essentials">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/7.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/8.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/9.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/10.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/11.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6 col-mo-12 Backpaks">
-                    <div class="shop-item-layout1">
-                        <div class="image-box">
-                            <a href="#"><img src="img/product/12.png" alt="img">
-                        </div>
-                        <div class="content-box text-center">
-                            <h3><a href="#">Proudect Title</a></h3>
-                            <div class="item-price">$33.40</div>
-                            <ul>
-                                <li><a href="#">Add To Cart</a></li>
-                                <li><a href="#"><i class="icofont icofont-love"></i></a></li>
-                                <li><a href="#"><i class="icofont icofont-random"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Shop Item Area End Here -->
-    <!-- Banner Area Start Here -->
-    <div class="bg-common-style banner-overlay section-space-default" style="background-image: url(img/banner/2.png);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="banner-content-layout1 text-center mt-80 mb-80">
-                        <h2 class="uppercase-text">Gói trọn cảm xúc trong từng <span> món quà </span></h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Banner Area End Here -->
+
+    <?php include_once 'product.php'; ?>
+
+    <?php include_once 'service.php'; ?>
+
+    <?php include_once 'why-us.php'; ?>
+
     <?php include_once 'layout/footer.php'; ?>
+    <div class="mobile-bottom-bar">
+        <a href="tel:0397162616" class="bar-item call">
+            📞<span>Gọi ngay</span>
+        </a>
+
+        <a href="https://zalo.me/0397162616" class="bar-item zalo" target="_blank">
+            💬<span>Zalo</span>
+        </a>
+
+        <a href="https://m.me/Minh-Khang-Gift" class="bar-item facebook" target="_blank">
+            📩<span>Facebook</span>
+        </a>
+    </div>
 </div>
 <!-- Main Body Area End Here -->
 <?php include_once 'layout/script.php'; ?>

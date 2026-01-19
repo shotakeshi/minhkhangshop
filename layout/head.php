@@ -5,7 +5,7 @@
     <meta name="description" content="Quà tặng doanh nghiệp & cá nhân tinh tế – Minh Khang Gift, trao gửi yêu thương và giá trị bền lâu.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.png">
     <!-- Normalize CSS -->
     <link rel="stylesheet" href="css/normalize.css">
     <!-- Main CSS -->

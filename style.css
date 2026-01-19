@@ -57,6 +57,7 @@ Version: 1.0
 =========================================================================*/
 html {
   font: 15px;
+  scroll-behavior: smooth;
 }
 html,
 body {
@@ -1612,6 +1613,52 @@ ul {
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
 }
+
+.btn-fill-facebook {
+  background: #3B5988;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #ffffff;
+  border: 2px solid #3B5988;
+  padding: 13px 34px;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 700;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+
+.btn-fill-facebook:hover{
+  background: transparent;
+  color: #3B5988;
+  border: 2px solid #3B5988;
+}
+
+.btn-fill-zalo {
+  background: #0A68FE;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #ffffff;
+  border: 2px solid #0A68FE;
+  padding: 13px 34px;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 700;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.btn-fill-zalo:hover{
+  background: transparent;
+  color: #0A68FE;
+  border: 2px solid #0A68FE;
+}
+
 .btn-fill-textprimary:hover {
   background: transparent;
   color: #20352c;
@@ -3469,8 +3516,10 @@ ul.slider-btn li:last-child {
 @media only screen and (max-width: 767px) {
   .mean-container .mean-bar .meanmenu-reveal {
     margin-top: 5px;
+    color: #FFFFFFF;
   }
 }
+
 .mean-container .mean-bar:after {
   content: "";
   clear: both;
@@ -3515,7 +3564,7 @@ ul.slider-btn li:last-child {
 .mean-container .mean-bar a.logo-mobile-menu {
   width: 100%;
   box-sizing: border-box;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(43, 66, 54);
 }
 .mean-container a.meanmenu-reveal {
   float: none !important;
@@ -7446,7 +7495,7 @@ ul.radius-counter li:last-child {
 .portfolio-layout1:before {
   content: "";
   position: absolute;
-  background-color: rgba(247, 161, 69, 0.8);
+  background-color: rgba(43, 66, 54, 0.71);
   height: 100%;
   z-index: 1;
   width: 100%;
@@ -11441,5 +11490,127 @@ a.phone{
 @media only screen and (max-width: 479px) {
   .col-mb-12 {
     width: 100%;
+  }
+}
+.fb-chat-float {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  width: 56px;
+  height: 56px;
+  background: #0084ff;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: pulse 2s infinite;
+}
+
+.fb-chat-float img{
+  border-radius: 50%;
+}
+
+.zalo-chat-float {
+  position: fixed;
+  bottom: 120px; /* cao hơn nút Facebook */
+  right: 20px;
+  width: 56px;
+  height: 56px;
+  background: #0068ff;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: pulse 2s infinite;
+}
+
+.zalo-chat-float img {
+  width: 32px;
+  height: 32px;
+}
+
+.mobile-bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 56px;
+  background: #fff;
+  display: flex;
+  border-top: 1px solid #e5e5e5;
+  z-index: 9999;
+}
+
+/* mỗi nút */
+.mobile-bottom-bar .bar-item {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* màu từng nút */
+.bar-item.call {
+  background: #28a745;
+}
+
+.bar-item.zalo {
+  background: #0068ff;
+}
+
+.bar-item.facebook {
+  background: #0084ff;
+}
+
+.bar-item span {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+/* Ẩn trên desktop */
+@media (min-width: 768px) {
+  .mobile-bottom-bar {
+    display: none;
+  }
+}
+/* Ẩn icon chat fixed trên mobile */
+@media (max-width: 767px) {
+  .fb-chat-float,
+  .zalo-chat-float {
+    display: none !important;
+  }
+  #scrollUp{
+    display: none !important;
+  }
+  .btn-fill-zalo{
+    margin-top: 5px;
+  }
+}
+
+.logo-mobile-menu img{
+  max-width: 50px;
+}
+#contact, #about, #product, #service {
+  scroll-margin-top: 70px; /* chiều cao header */
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0,0,0,0.3);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(0,0,0,0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0,0,0,0);
   }
 }
